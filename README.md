@@ -12,5 +12,15 @@
 
 ### Let's connect:
 
-[<img align="left" src="https://www.dropbox.com/s/lqe1p5qsnt24jwx/linkedin-svgrepo-com.svg?dl=0" />][https://www.linkedin.com/in/reduardoj/]
+<br>
+<a href="https://www.linkedin.com/in/reduardoj/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ </a>
+ <a href="https://www.instagram.com/reduardoj/?hl=es">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+ </a>
+ <a href="https://www.twitter.com/EduardoR1105">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ </a>
+ </br>
 
