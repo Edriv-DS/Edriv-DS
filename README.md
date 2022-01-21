@@ -1,6 +1,6 @@
 ### Hi there, I am Eduardo Rivero https://www.allspreadsheet.com 👋💻📌
 
-<img src="C:/Users/Eduardo/Desktop/copia eduardo rivero/Users/Usuario/Documents/BackUp/Respaldo/Blog/allspreadsheet.svg" >
+<img src="Blog/allspreadsheet.png">
 
 ### I am a New in this page!
 
