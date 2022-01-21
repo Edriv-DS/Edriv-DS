@@ -12,4 +12,5 @@
 
 ### Let's connect:
 
+[<img align="left" src="https://www.dropbox.com/s/lqe1p5qsnt24jwx/linkedin-svgrepo-com.svg?dl=0" />][https://www.linkedin.com/in/reduardoj/]
 
