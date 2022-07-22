@@ -7,11 +7,11 @@
 
 ### I'm New in this page!
 
-- I am currently working on Machine Learning with Python and now learning about Scala tech!
-- My work spaces libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Tensorflow and Keras.
-- Actually learning everytime.
-- I am always connected with my business proposal.
-- Forecast 2022 => focused with AWS.
+- [] I am currently working on Machine Learning with Python and now learning about Scala tech!
+- [] My work spaces libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Tensorflow and Keras.
+- [] Actually learning everytime.
+- [] I am always connected with my business proposal.
+- [] Forecast 2022 => focused with AWS.
 
 ### Let's connect:
 
