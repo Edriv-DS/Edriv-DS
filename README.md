@@ -23,5 +23,8 @@
  <a href="https://www.twitter.com/EduardoR1105">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
  </a>
+  <a href="mailto:eduardo.rivero@allspreadsheet.com?Subject=Mail%20asunto%20personalizado%20aqui">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />
+ </a>
  </br>
 
