@@ -3,15 +3,15 @@
 
 ![allspreadsheet](https://user-images.githubusercontent.com/98086978/150505283-bff34d72-2673-4b96-aab2-d1ef1d8f0274.png)
 
-*#Big Data & Data Sciences#*
-0
+# Big Data & Data Sciences
+
 ### I'm New in this page!
 
-- I am currently working on Machine Learning with Python and now learning about Scala tech!
-- My work spaces libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Tensorflow and Keras.
-- Actually learning everytime.
-- I am always connected with my business proposal.
-- Forecast 2022 => focused with AWS.
+[x] I am currently working on Machine Learning with Python and now learning about Scala tech!
+[x] My work spaces libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Tensorflow and Keras.
+[x] Actually learning everytime.
+[x] I am always connected with my business proposal.
+[] Forecast 2022 => focused with AWS.
 
 ### Let's connect:
 
