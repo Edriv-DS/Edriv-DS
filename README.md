@@ -13,6 +13,8 @@
 - [X] I am always connected with my business proposal.
 - [ ] Forecast 2022 => focused with AWS.
 
+### "The genius's brand is clarity, the failure's brand is confusion"
+
 ### Let's connect:
 
 <br>
