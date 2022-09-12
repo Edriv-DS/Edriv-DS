@@ -9,10 +9,10 @@
 
  ### I'm New in this page! Performance & Development
 
-- [X] I am currently working on Machine Learning with Python and now learning about Scala tech!
-- [X] My work spaces libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Tensorflow and Keras.
-- [X] Actually learning everytime.
-- [X] I am always connected with my business proposal.
+- [X] Apprentice Data Science , Machine Learning and Deep Learning with Python and now I will be driving Scala tech principles!!
+- [X] My workspace libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Keras, TensorFlow, dplyr, ggplot2, readr, VIM, lifecycle, lubridate, etc...
+- [X] Actually, learning everytime.
+- [X] I am focused with my business proposal.
 - [ ] Forecast 2022 => focused with AWS.
 
 ### "The genius's brand is clarity, the failure's brand is confusion"
