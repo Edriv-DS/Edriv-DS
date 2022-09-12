@@ -5,7 +5,9 @@
 
 # Big Data & Data Sciences
 
- *"I'm New in this page! Performance & Development" - Brian Tracy*
+*"The genius's brand is clarity, the failure's brand is confusion" - Brian Tracy*
+
+ ### I'm New in this page! Performance & Development
 
 - [X] I am currently working on Machine Learning with Python and now learning about Scala tech!
 - [X] My work spaces libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Tensorflow and Keras.
