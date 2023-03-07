@@ -3,7 +3,6 @@
 
 ![allspreadsheet](https://user-images.githubusercontent.com/98086978/150505283-bff34d72-2673-4b96-aab2-d1ef1d8f0274.png)
 
-#
 # Big Data & Data Sciences
 
 *"The genius's brand is clarity, the failure's brand is confusion" - Brian Tracy*
