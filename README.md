@@ -15,8 +15,6 @@
 - [X] I am focused with my business proposal.
 - [ ] Forecast 2023 => focused with AKS.
 
-### "The genius's brand is clarity, the failure's brand is confusion"
-
 ### Let's connect:
 
 <br>
