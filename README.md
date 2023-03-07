@@ -11,9 +11,9 @@
 
 - [X] Apprentice Data Science , Machine Learning and Deep Learning with Python and now I will be driving Scala tech principles!!
 - [X] My workspace libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Keras, TensorFlow, dplyr, ggplot2, readr, VIM, lifecycle, lubridate, etc...
-- [X] Actually, learning everytime.
+- [X] Actually, learning Azure Machine Learning.
 - [X] I am focused with my business proposal.
-- [ ] Forecast 2023 => focused with AWS.
+- [ ] Forecast 2023 => focused with AKS.
 
 ### "The genius's brand is clarity, the failure's brand is confusion"
 
