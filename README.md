@@ -16,10 +16,7 @@
 - [X] I am focused with my business proposal.
 - [ ] Forecast 2023 => focused with AKS.
 
-### Latest Blog Posts
-
 ### Let's connect:
-
 
 <br>
 <a href="https://www.linkedin.com/in/reduardoj/">
