@@ -20,6 +20,7 @@
 
 ### Let's connect:
 
+
 <br>
 <a href="https://www.linkedin.com/in/reduardoj/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
