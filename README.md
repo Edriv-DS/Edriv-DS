@@ -8,7 +8,7 @@
 
 *"The genius's brand is clarity, the failure's brand is confusion" - Brian Tracy*
 
- ### Tou know? I'm New in this page! Performance & Development
+ ### You know? I'm New in this page! Performance & Development
 
 - [X] Apprentice Data Science , Machine Learning and Deep Learning with Python and now I will be driving Scala tech principles!!
 - [X] My workspace libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Keras, TensorFlow, dplyr, ggplot2, readr, VIM, lifecycle, lubridate, etc...
