@@ -14,7 +14,7 @@
 - [X] My workspace libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Keras, TensorFlow, dplyr, ggplot2, readr, VIM, lifecycle, lubridate, etc...
 - [X] Actually, learning Azure Machine Learning.
 - [X] I am focused with my business proposal.
-- [ ] Forecast 2023 => focused with AKS.
+- [X] Forecast 2023 => focused with AKS.
 
 ### Let's connect:
 
