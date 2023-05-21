@@ -1,5 +1,6 @@
 ### Hi there, I am Eduardo Rivero https://www.allspreadsheet.com :+1::rocket::computer::pushpin::bar_chart::chart_with_upwards_trend:
-# I'll be working full python code!
+
+## I'll be working full python code!
 
 ![allspreadsheet](https://user-images.githubusercontent.com/98086978/150505283-bff34d72-2673-4b96-aab2-d1ef1d8f0274.png)
 
@@ -7,7 +8,7 @@
 
 *"The genius's brand is clarity, the failure's brand is confusion" - Brian Tracy*
 
- ### I'm New in this page! Performance & Development
+ ### Tou know? I'm New in this page! Performance & Development
 
 - [X] Apprentice Data Science , Machine Learning and Deep Learning with Python and now I will be driving Scala tech principles!!
 - [X] My workspace libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Keras, TensorFlow, dplyr, ggplot2, readr, VIM, lifecycle, lubridate, etc...
