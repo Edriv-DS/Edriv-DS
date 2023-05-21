@@ -4,7 +4,7 @@
 
 ![allspreadsheet](https://user-images.githubusercontent.com/98086978/150505283-bff34d72-2673-4b96-aab2-d1ef1d8f0274.png)
 
-<img align="right" alt="coding" width=300 src="![image](https://github.com/Edriv-DS/Edriv-DS/assets/98086978/d6fd4369-8d85-4190-9eaa-03199d9e958f)">
+<img align="right" alt="coding" width=300 src="[![image](https://github.com/Edriv-DS/Edriv-DS/assets/98086978/d6fd4369-8d85-4190-9eaa-03199d9e958f)](https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)">
 
 # Big Data & Data Sciences
 
