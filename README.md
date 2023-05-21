@@ -4,6 +4,8 @@
 
 ![allspreadsheet](https://user-images.githubusercontent.com/98086978/150505283-bff34d72-2673-4b96-aab2-d1ef1d8f0274.png)
 
+<img align="right" alt="coding" width=300 src=![allspreadsheet1](https://github.com/Edriv-DS/Edriv-DS/assets/98086978/970b2e53-d5f9-45db-89b8-dcbdc5abaa23)>
+
 # Big Data & Data Sciences
 
 *"The genius's brand is clarity, the failure's brand is confusion" - Brian Tracy*
