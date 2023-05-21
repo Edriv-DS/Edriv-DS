@@ -2,7 +2,7 @@
 
 ## I'll be working full python code into 👇🏼 - plan your trip:
 
-<br><img align="center" ![allspreadsheet](https://user-images.githubusercontent.com/98086978/150505283-bff34d72-2673-4b96-aab2-d1ef1d8f0274.png) <img align="right" alt="coding" width="250" src="https://github.com/Edriv-DS/Edriv-DS/assets/98086978/6877542c-ca94-47c0-a606-8e25adae63d8">
+<br<img align="center" ![allspreadsheet](https://user-images.githubusercontent.com/98086978/150505283-bff34d72-2673-4b96-aab2-d1ef1d8f0274.png)/img> <img align="right" alt="coding" width="250" src="https://github.com/Edriv-DS/Edriv-DS/assets/98086978/6877542c-ca94-47c0-a606-8e25adae63d8">
 
 # Big Data & Data Sciences
 
