@@ -2,7 +2,7 @@
 
 ## I'll be working full code into 👇🏼 - plan your trip:
 
-<br>![allspreadsheet](https://user-images.githubusercontent.com/98086978/150505283-bff34d72-2673-4b96-aab2-d1ef1d8f0274.png) <img align="right" height="80vh" src="https://github.com/Edriv-DS/Edriv-DS/assets/98086978/6877542c-ca94-47c0-a606-8e25adae63d8">
+<br>![allspreadsheet](https://user-images.githubusercontent.com/98086978/150505283-bff34d72-2673-4b96-aab2-d1ef1d8f0274.png) <img align="right" srcset="https://github.com/Edriv-DS/Edriv-DS/assets/98086978/6877542c-ca94-47c0-a606-8e25adae63d8 480w, https://github.com/Edriv-DS/Edriv-DS/assets/98086978/6877542c-ca94-47c0-a606-8e25adae63d8 800w" sizes="(max-width: 600px) 480px, 800px" src="https://github.com/Edriv-DS/Edriv-DS/assets/98086978/6877542c-ca94-47c0-a606-8e25adae63d8" alt="coding">
 
 # Big Data & Data Sciences
 
