@@ -31,4 +31,8 @@
   <a href="mailto:eduardo.rivero@allspreadsheet.com?Subject=Mail%20asunto%20personalizado%20aqui">
   <img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />
  </a>
+  </a>
+  <a href="https://www.tiktok.com/@allspreadsheet">
+  <img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tiktok.svg" />
+ </a>
  </br>
