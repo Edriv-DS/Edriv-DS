@@ -26,7 +26,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
  </a>
  <a href="https://www.twitter.com/EduardoR1105">
-  <img align="left" alt="Twitter" width="22px" src="file:///C:/Users/Eduardo/Documents/x-svg.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
  </a>
   <a href="mailto:eduardo.rivero@allspreadsheet.com?Subject=Mail%20asunto%20personalizado%20aqui">
   <img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />
