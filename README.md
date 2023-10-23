@@ -25,8 +25,8 @@
  <a href="https://www.instagram.com/reduardoj/?hl=es">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
  </a>
- <a href="https://github.com/Edriv-DS/Edriv-DS/assets/98086978/69c9ef69-37b6-4b9f-994e-0a6f6e8720e4">
-  <img align="left" alt="Twitter" width="22px" src="https://www.twitter.com/EduardoR1105" />
+ <a href="https://www.twitter.com/EduardoR1105">
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/Edriv-DS/Edriv-DS/assets/98086978/69c9ef69-37b6-4b9f-994e-0a6f6e8720e4" />
  </a>
   <a href="mailto:eduardo.rivero@allspreadsheet.com?Subject=Mail%20asunto%20personalizado%20aqui">
   <img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />
