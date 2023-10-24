@@ -2,7 +2,7 @@
 
 ## I'll be working full code into 👇🏼 - plan your trip:
 
-<br>![allspreadsheet](https://github.com/Edriv-DS/Edriv-DS/issues/1#issue-1110267315) <img align="right" srcset="https://github.com/Edriv-DS/Edriv-DS/issues/1#issue-1110267315 400w, https://github.com/Edriv-DS/Edriv-DS/issues/1#issue-1110267315 500w" sizes="(max-width: 400px) 350px, 500px" src="https://github.com/Edriv-DS/Edriv-DS/issues/1#issue-1110267315" alt="coding">
+<br>![allspreadsheet](https://www.allspreadsheet.com/wp-content/uploads/2023/10/logo.png) <img align="right" srcset="https://www.allspreadsheet.com/wp-content/uploads/2023/10/logo.png 400w, https://www.allspreadsheet.com/wp-content/uploads/2023/10/logo.png 500w" sizes="(max-width: 400px) 350px, 500px" src="https://www.allspreadsheet.com/wp-content/uploads/2023/10/logo.png" alt="coding">
 
 # Big Data & Data Sciences
 
