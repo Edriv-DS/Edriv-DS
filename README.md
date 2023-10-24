@@ -2,7 +2,7 @@
 
 ## I'll be working full code into 👇🏼 - plan your trip:
 
-<br>![allspreadsheet](https://www.allspreadsheet.com/wp-content/uploads/2023/10/logo.png) <img align="right" srcset="https://www.allspreadsheet.com/wp-content/uploads/2023/10/logo.png 400w, https://www.allspreadsheet.com/wp-content/uploads/2023/10/logo.png 500w" sizes="(max-width: 400px) 350px, 500px" src="https://www.allspreadsheet.com/wp-content/uploads/2023/10/logo.png" alt="coding">
+<br>![allspreadsheet](https://www.allspreadsheet.com/wp-content/uploads/2023/10/logo.png) <img align="right" srcset="https://www.allspreadsheet.com/wp-content/uploads/2023/10/logo.png 400w, https://www.allspreadsheet.com/wp-content/uploads/2023/10/logo.png 500w" sizes="(max-width: 400px) 350px, 500px" >
 
 # Big Data & Data Sciences
 
