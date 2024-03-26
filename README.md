@@ -8,6 +8,8 @@
 
  ### Did you know that? I'm New in this page! Performance & Development are my goals...
 
+ [https://github.com/Edriv-DS/Edriv-DS/issues/3#issue-1718563794]
+
 - [X] Driving Data Science, Machine Learning and Deep Learning with Python, R and now I will be driving Scala tech principles!!
 - [X] Database analysis with SQL Server.
 - [X] Scripts development and implementation in automated supervised learning models (Regressions, Classifications and time series) and unsupervised (Clustering) with Programming languages such as Python and R.
