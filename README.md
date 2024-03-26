@@ -14,7 +14,7 @@
 - [X] Modeling mean libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Keras, TensorFlow, dplyr, ggplot2, reader, VIM, lifecycle, lubricate, etc..
 - [X] Data Analysis through collection, transformation, filtering and cleaning with Jupyter Notebook and Databricks.
 - [X] Databases used: structured books, flat files, AVRO, Parquet, JSON and ORC formats.
-- [X] Connection string with Apache Hadoop (HDFS, YARN, MapReduce•
+- [X] Connection string with Apache Hadoop (HDFS, YARN, MapReduce).
 - [X] Essential touch development with SCALA.
 - [X] Learning Azure Machine Learning, with Data Factory and Synapse Analytics.
 
