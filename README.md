@@ -30,4 +30,5 @@
   <a href="https://www.tiktok.com/@allspreadsheet">
   <img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tiktok.svg" />
  </a>
+ <p><a href="mailto:?to=reduardoj@hotmail.com&subject=Example%20Subject%20Line&body=Example%20Body%20Contents">
  </br>
