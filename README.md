@@ -6,9 +6,9 @@
 
 *"The genius's brand is clarity, the failure's brand is confusion" - Brian Tracy*
 
- ### Do you know? I'm New in this page! Performance & Development are my goals...
+ ### Did you know that? I'm New in this page! Performance & Development are my goals...
 
-- [X] Apprentice Data Science , Machine Learning and Deep Learning with Python, R and now I will be driving Scala tech principles!!
+- [X] Driving Data Science, Machine Learning and Deep Learning with Python, R and now I will be driving Scala tech principles!!
 - [X] Database analysis with SQL Server.
 - [X] Scripts development and implementation in automated supervised learning models (Regressions, Classifications and time series) and unsupervised (Clustering) with Programming languages such as Python and R.
 - [X] Modeling mean libraries: Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn, Keras, TensorFlow, dplyr, ggplot2, reader, VIM, lifecycle, lubricate, etc..
@@ -17,6 +17,7 @@
 - [X] Connection string with Apache Hadoop (HDFS, YARN, MapReduce).
 - [X] Essential touch development with SCALA.
 - [X] Learning Azure Machine Learning, with Data Factory and Synapse Analytics.
+- [X] Curious about AI + Problem Solving.
 
 ### Let's connect:
 
