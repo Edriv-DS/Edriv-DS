@@ -26,9 +26,6 @@
  <a href="https://www.twitter.com/EduardoR1105">
   <img align="left" alt="Twitter" width="22px" src="https://www.allspreadsheet.com/wp-content/uploads/2023/10/X-icon.svg" />
  </a>
-  <a href="mailto:eduardo.rivero@allspreadsheet.com?Subject=Mail%20asunto%20personalizado%20aqui">
-  <img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />
- </a>
   </a>
   <a href="https://www.tiktok.com/@allspreadsheet">
   <img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tiktok.svg" />
