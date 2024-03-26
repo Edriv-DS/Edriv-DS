@@ -28,7 +28,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
  </a>
  <a href="https://www.twitter.com/EduardoR1105">
-  <img align="left" alt="Twitter" width="22px" src="https://www.allspreadsheet.com/wp-content/uploads/2023/10/X-icon.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://drive.google.com/file/d/1KnaoajtMid5mOhQELZRgkGnrycRYcFJ6/view?usp=sharing" />
  </a>
   </a>
   <!--<a href="https://www.tiktok.com/@allspreadsheet">
