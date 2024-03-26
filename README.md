@@ -8,7 +8,7 @@
 
  ### Did you know that? I'm New in this page! Performance & Development are my goals...
 
- [https://github.com/Edriv-DS/Edriv-DS/issues/3#issue-1718563794]
+ ![Designer](https://github.com/Edriv-DS/Edriv-DS/assets/98086978/e95a2eee-bb5b-4f24-9a46-5b3b9f8b775c)
 
 - [X] Driving Data Science, Machine Learning and Deep Learning with Python, R and now I will be driving Scala tech principles!!
 - [X] Database analysis with SQL Server.
