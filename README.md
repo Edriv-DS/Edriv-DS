@@ -1,4 +1,4 @@
-### Hi there, This is Eduardo Rivero: +1::rocket::computer::pushpin::bar_chart::chart_with_upwards_trend:
+### Hi there, This is Eduardo Rivero :+1::rocket::computer::pushpin::bar_chart::chart_with_upwards_trend:
 
 ## I'll be working full code into 👇🏼 - plan your trip:
 
