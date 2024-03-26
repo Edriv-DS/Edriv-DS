@@ -2,8 +2,6 @@
 
 ## I'll be working full code into 👇🏼 - plan your trip:
 
-<br>![allspreadsheet](https://www.allspreadsheet.com/wp-content/uploads/2023/10/logo.png) <img align="right" width="50px" srcset="https://www.allspreadsheet.com/wp-content/uploads/2023/10/logo.png 100w" >
-
 # Big Data & Data Sciences
 
 *"The genius's brand is clarity, the failure's brand is confusion" - Brian Tracy*
