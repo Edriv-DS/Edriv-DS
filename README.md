@@ -31,7 +31,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
  </a>
  <a href="https://www.twitter.com/EduardoR1105">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/Edriv-DS/Edriv-DS/assets/98086978/04013f61-d364-4ef7-b5ce-8ff8d8d738d4)" />
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/Edriv-DS/Edriv-DS/assets/98086978/04013f61-d364-4ef7-b5ce-8ff8d8d738d4" />
  </a>
   </a>
   <!--<a href="https://www.tiktok.com/@allspreadsheet">
