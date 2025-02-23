@@ -24,8 +24,7 @@
 ### Let's connect:
 
 <br>
-<a href="https://www.linkedin.com/in/reduardoj/" target="_blank">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/reduardoj/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
  <a href="https://www.instagram.com/reduardoj/?hl=es">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>
