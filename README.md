@@ -35,7 +35,7 @@
  </a>
   </a>
   <a href="https://www.allspreadsheet.com">
-  <img align="left" alt="mail" width="25px" src="https://github.com/user-attachments/assets/0b877c9d-de9a-4f73-a4ca-ead93409ea5c" />
+  <img align="left" alt="mail" width="26px" src="https://github.com/user-attachments/assets/0b877c9d-de9a-4f73-a4ca-ead93409ea5c" />
  </a>
  <a href="mailto:?to=reduardoj@hotmail.com&subject=Example%20Subject%20Line&body=Example%20Body%20Contents">
   <img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg">
