@@ -25,19 +25,18 @@
 
 <br>
 <a href="https://www.linkedin.com/in/reduardoj/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>
  </a>
  <a href="https://www.instagram.com/reduardoj/?hl=es">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>
  </a>
  <a href="https://www.twitter.com/EduardoR1105">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/Edriv-DS/Edriv-DS/assets/98086978/04013f61-d364-4ef7-b5ce-8ff8d8d738d4" />
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/Edriv-DS/Edriv-DS/assets/98086978/04013f61-d364-4ef7-b5ce-8ff8d8d738d4" target="_blank"/>
  </a>
-  </a>
   <a href="https://www.allspreadsheet.com">
-  <img align="left" alt="mail" width="26px" src="https://github.com/user-attachments/assets/0b877c9d-de9a-4f73-a4ca-ead93409ea5c" />
+  <img align="left" alt="mail" width="26px" src="https://github.com/user-attachments/assets/0b877c9d-de9a-4f73-a4ca-ead93409ea5c" target="_blank"/>
  </a>
  <a href="mailto:?to=reduardoj@hotmail.com&subject=Example%20Subject%20Line&body=Example%20Body%20Contents">
-  <img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg">
+  <img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" target="_blank">
  </a>
  </br>
