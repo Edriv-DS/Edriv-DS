@@ -34,8 +34,8 @@
   <img align="left" alt="Twitter" width="22px" src="https://github.com/Edriv-DS/Edriv-DS/assets/98086978/04013f61-d364-4ef7-b5ce-8ff8d8d738d4" />
  </a>
   </a>
-  <a href="https://www.tiktok.com/@allspreadsheet">
-  <img align="left" alt="mail" width="22px" src="https://github.com/user-attachments/assets/0b877c9d-de9a-4f73-a4ca-ead93409ea5c" />
+  <a href="https://www.allspreadsheet.com">
+  <img align="left" alt="mail" width="24px" src="https://github.com/user-attachments/assets/0b877c9d-de9a-4f73-a4ca-ead93409ea5c" />
  </a>
  <a href="mailto:?to=reduardoj@hotmail.com&subject=Example%20Subject%20Line&body=Example%20Body%20Contents">
   <img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg">
