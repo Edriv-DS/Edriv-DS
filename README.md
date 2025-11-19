@@ -1,6 +1,6 @@
 ### Hi there, This is Eduardo Rivero :+1::rocket::computer::pushpin::bar_chart::chart_with_upwards_trend:
 
-## I'll be working full code into 👇🏼 - plan your trip:
+## I will be working with a lot of code, check out 👇🏼 - plan your trip:
 
 # Big Data & Data Sciences
 
