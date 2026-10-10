@@ -17,6 +17,8 @@
 
  ![Designer](https://github.com/Edriv-DS/Edriv-DS/assets/98086978/e95a2eee-bb5b-4f24-9a46-5b3b9f8b775c)
 
+ ## Tools and Technologies
+
 - [X] Driving Data Science, Machine Learning and Deep Learning with Python, R and now I will be driving Scala tech principles!!
 - [X] Database analysis with SQL Server.
 - [X] Scripts development and implementation in automated supervised learning models (Regressions, Classifications and time series) and unsupervised (Clustering) with Programming languages such as Python and R.
