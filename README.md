@@ -1,4 +1,4 @@
-### Hi there, This is Eduardo Rivero :+1::rocket::computer::pushpin::bar_chart::chart_with_upwards_trend:
+### Hi there, This is Eduardo Rivero :+1::bar_chart::chart_with_upwards_trend:
 
 ## I work with Python, R and SQL to prepare, explore and visualize data, and develop predictive models. My interests include deep learning, distributed data processing and practical problem solving, check out 👇🏼 
 
