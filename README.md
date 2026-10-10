@@ -32,6 +32,13 @@
 
 ### Let's connect:
 
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/reduardoj/)
+- [Instagram](https://www.instagram.com/reduardoj/)
+- [X](https://x.com/EduardoR1105)
+- [Email](mailto:reduardoj@hotmail.com)
+
 <br>
 <a href="https://www.linkedin.com/in/reduardoj/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/></a>
  <a href="https://www.instagram.com/reduardoj/?hl=es" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
