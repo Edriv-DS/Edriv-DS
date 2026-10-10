@@ -1,6 +1,12 @@
 ### Hi there, This is Eduardo Rivero :+1::bar_chart::chart_with_upwards_trend:
 
-## I work with Python, R and SQL to prepare, explore and visualize data, and develop predictive models. My interests include deep learning, distributed data processing and practical problem solving, check out 👇🏼 
+## I work with Python, R and SQL to prepare, explore and visualize data, and develop predictive models. My interests include deep learning, distributed data processing and practical problem solving, check out 👇🏼
+
+# Data Sciences, Machine Learning and Big Data
+
+*"The genius's brand is clarity, the failure's brand is confusion" - Brian Tracy*
+
+ ![Designer](https://github.com/Edriv-DS/Edriv-DS/assets/98086978/e95a2eee-bb5b-4f24-9a46-5b3b9f8b775c)
 
 ## Areas
 
@@ -10,12 +16,6 @@
 - Unsupervised learning: clustering.
 - Time-series analysis and forecasting.
 - Database querying and analysis with SQL Server.
-
-# Data Sciences, Machine Learning and Big Data
-
-*"The genius's brand is clarity, the failure's brand is confusion" - Brian Tracy*
-
- ![Designer](https://github.com/Edriv-DS/Edriv-DS/assets/98086978/e95a2eee-bb5b-4f24-9a46-5b3b9f8b775c)
 
  ## Tools and Technologies
 
